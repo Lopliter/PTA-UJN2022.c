@@ -1,3 +1,0 @@
-/Users/literlop/Library/Mobile Documents/com~apple~CloudDocs/大学学习/C语言文件/PTA/第四场/7-5/cmake-build-debug/CMakeFiles/7_5.dir
-/Users/literlop/Library/Mobile Documents/com~apple~CloudDocs/大学学习/C语言文件/PTA/第四场/7-5/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/literlop/Library/Mobile Documents/com~apple~CloudDocs/大学学习/C语言文件/PTA/第四场/7-5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
